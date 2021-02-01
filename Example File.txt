@@ -1,0 +1,2 @@
+Congratulations!
+You have cloned your first remote repository.
